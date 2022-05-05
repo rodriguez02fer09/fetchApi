@@ -30,6 +30,12 @@ h1{
   height: 200px;
   width: 50%;
   max-width: 400px;
+
+  display: flex;
+  padding: 10px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
 }
 
 .btnContainer{
